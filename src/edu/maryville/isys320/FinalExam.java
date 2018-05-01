@@ -6,10 +6,16 @@ package edu.maryville.isys320;
  * Date:     30-APR-2018
  */
 
+
+
 public class FinalExam {
 
 	public static void main(String[] args) {
-		
-	}
-
+		  {
+				double result =0;
+				  int x = 8;
+				   int y = 6;
+				System.out.println(result = (x-y) * 2);
+			} 
+}
 }
